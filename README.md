@@ -4,7 +4,7 @@
 
 ## Instructions
 
-1. Install devkitPro pacman from [here)(https://devkitpro.org/wiki/devkitPro_pacman).
+1. Install devkitPro pacman from [here](https://devkitpro.org/wiki/devkitPro_pacman).
 2. Run: `sudo dkp-pacman -S 3ds-libtheora 3ds-sdl libctru`.
 3. Download the **Sonic Mania 3DS Quick Build Script** from [here](https://github.com/MisterSheeple/Sonic-Mania-3DS-Build-Guide/raw/main/Mania3DSQuickBuild.sh).
 4. Make the script executable by running `chmod +x Mania3DSQuickBuild.sh`.
@@ -13,4 +13,4 @@
 
 ## Support
 
-If you need any support, please feel free to reach out to me on Discord @MisterSheeple#0321 in the Retro Engine Modding Server. Invite: http://dc.railgun.works/retroengine
+If you need any support, please feel free to reach out to the Retro Engine Modding Server on Discord. Invite: http://dc.railgun.works/retroengine
