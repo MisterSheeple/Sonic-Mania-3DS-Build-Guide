@@ -8,7 +8,7 @@
 2. Run: `sudo dkp-pacman -S 3ds-libtheora 3ds-sdl libctru`.
 3. Download the **Sonic Mania 3DS Quick Build Script** from [here](https://github.com/MisterSheeple/Sonic-Mania-3DS-Build-Guide/raw/main/Mania3DSQuickBuild.sh).
 4. Make the script executable by running `chmod +x Mania3DSQuickBuild.sh`.
-5. Run it using `./ManiaVitaQuickBuild.sh`.
+5. Run it using `./Mania3DSQuickBuild.sh`.
 6. When the script is done running, your 3DSX will be located in `RSDKv5-Decompilation/bin/3DS/CTR`.
 
 ## Support
