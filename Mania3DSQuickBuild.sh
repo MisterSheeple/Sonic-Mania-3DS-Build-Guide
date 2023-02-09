@@ -8,5 +8,7 @@ mv SonicMania ../RSDKv5-Decompilation/Game
 cd ..
 rm -rf Sonic-Mania-Decompilation
 cd RSDKv5-Decompilation
+export DEVKITPRO=/opt/devkitpro
+export DEVKITARM=$DEVKITPRO/devkitARM
 make PLATFORM=3DS
 echo Build done.
