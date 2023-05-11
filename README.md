@@ -1,7 +1,7 @@
-# This guide is **DEPRECATED**. Use [this guide](https://github.com/SaturnSH2x2/RSDKv5-Decompilation/blob/3ds-main/GUIDE.md) instead.
+# This guide is DEPRECATED and will no longer receive new updates. Use [this guide](https://github.com/SaturnSH2x2/RSDKv5-Decompilation/blob/3ds-main/GUIDE.md) instead.
 
 
-# Sonic Mania Decompilation: Nintendo 3DS Build Guide
+## Sonic Mania Decompilation: Nintendo 3DS Build Guide
 
 ***This guide is for Linux only.*** If you are running Windows, please install Windows Subsystem for Linux and use that for this guide.
 
